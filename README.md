@@ -90,7 +90,7 @@
 ### 레이아웃 세부 설명
 [Figma](https://www.figma.com/file/q4A965g4ysrWFztPcNHupG/%EC%99%B8%EC%B6%9C%EC%A6%9D-%EC%9E%91%EC%84%B1-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8?type=design&node-id=1-20&mode=design&t=z4Lq3ji6v4Egj7QU-0)
 ### 데이터베이스 ERD
-![ERD](https://drive.google.com/file/d/1DkmNzAQ41j3_P9ede_hK3LB6eEaucJFU/view)
+<img src="https://drive.google.com/file/d/1DkmNzAQ41j3_P9ede_hK3LB6eEaucJFU/view" alt="ERD">
 
 
 ## 프로젝트 추진 결과
