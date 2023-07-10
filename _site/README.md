@@ -1,1 +1,0 @@
-# GBSWOutScope.github.io
