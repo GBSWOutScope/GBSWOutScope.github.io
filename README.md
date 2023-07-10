@@ -1,4 +1,4 @@
-# GBSWOutScope.github.io
+# OutScope
 
 ## 프로젝트 개요
 ### 프로젝트 주제
